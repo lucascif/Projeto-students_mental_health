@@ -6,7 +6,7 @@ Este projeto tem como objetivo prever o nível de depressão dos estudantes a pa
 
 A análise é baseada no dataset “Students Mental Health Assessments”, publicado por Saint (Owner) no Kaggle. O estudo busca compreender quais fatores influenciam o Depression Score e avaliar a precisão de um modelo estatístico capaz de estimar esse valor com base em outras variáveis relacionadas ao bem-estar estudantil.
 
-📊 Conjunto de Dados
+## 📊 Conjunto de Dados
 
 Fonte: Kaggle – Students Mental Health Assessments
 
@@ -26,14 +26,14 @@ Hábitos de estudo e fatores acadêmicos
 
 Aspectos relacionados à saúde mental e emocional
 
-🎯Objetivos
+## 🎯Objetivos
 
-1. Descrição do Problema
+### 1. Descrição do Problema
 O aumento de sintomas de depressão e estresse entre estudantes universitários vem se tornando uma preocupação crescente no ensino superior. Fatores como carga acadêmica excessiva, privação de sono, pressão por desempenho e baixo suporte emocional podem contribuir significativamente para o agravamento de problemas de saúde mental nesta população.
 
 Embora o problema seja urgente, as evidências sobre fatores de risco modificáveis, como hábitos de vida e rotina acadêmica, ainda são limitadas.
 
-Objetivo
+### Objetivo
 O objetivo deste projeto é investigar a associação entre um conjunto específico de fatores da vida universitária e os níveis de depressão relatados por estudantes.
 
 Para isso, foi construído um modelo de regressão para estimar a variável alvo Depression_Score (uma escala de 0 a 5). A análise foi focada em oito variáveis de interesse, selecionadas intencionalmente a partir do dataset "Students Mental Health Assessments" (Kaggle, autor: Saint), para testar como diferentes dimensões da experiência estudantil se correlacionam com a saúde mental.
@@ -72,7 +72,7 @@ Financial_Stress (Nível de estresse financeiro)
 
 Social_Support (Percepção de apoio social)
 
-2. Metodologia
+🧩 Metodologia
 O projeto foi dividido em duas fases: (Semana 2) construção de um modelo base e (Semana 3) refinamento, validação e comparação de modelos.
 
 Pré-processamento e Transformação de Dados
